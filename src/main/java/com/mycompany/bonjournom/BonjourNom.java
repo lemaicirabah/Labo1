@@ -12,6 +12,7 @@ package com.mycompany.bonjournom;
 public class BonjourNom {
 
     public static void main(String[] args) {
-        System.out.println("Hello marhaba!");
+        System.out.println("Hello world marhaba hola!");
     }
+    
 }
